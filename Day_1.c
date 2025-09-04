@@ -1,5 +1,5 @@
 // Write a Program to Input Two Numbers and Display Their Sum
-// Double Forward Slashes are Used for Single Line Comments
+// Double Forward Slashes (//) are Used for Single Line Comments
 
 #include <stdio.h>   // This is a Preprocessor Directive to Include Standard Input Output Header File
 
