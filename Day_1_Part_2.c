@@ -30,9 +30,9 @@ int main(){
     difference = num1 - num2;   // Subtraction Operator
     product = num1 * num2;   // Multiplication Operator
 
-    printf("The Sum of %f and %f is : %f\n", num1, num2, sum);
-    printf("The Difference of %f and %f is : %f\n", num1, num2, difference);
-    printf("The Product of %f and %f is : %f\n", num1, num2, product);
+    printf("The Sum of %f and %f is : %.3f\n", num1, num2, sum);
+    printf("The Difference of %f and %f is : %.3f\n", num1, num2, difference);
+    printf("The Product of %f and %f is : %.3f\n", num1, num2, product);
 
     // For Division We Need to Use Conditional Statements to Check if Denominator is Zero
 
@@ -41,7 +41,7 @@ int main(){
     } 
     else {
         quotient = num1 / num2;   // Division Operator
-        printf("The Quotient of %f and %f is : %f", num1, num2, quotient);
+        printf("The Quotient of %f and %f is : %.3f", num1, num2, quotient);
     }
 
     return 0;
