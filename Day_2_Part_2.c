@@ -1,0 +1,23 @@
+// Write a Program to Calculate Area and Circumference of Circle Given its Radius
+
+#include <stdio.h>
+#define PI 3.14159   // Define constant for Pi
+
+int main(){
+
+    float radius;
+
+    printf("Enter the radius of the circle: ");
+    scanf("%f", &radius);
+
+    float area;
+    float circumference;
+
+    area = PI * radius * radius;
+    circumference = 2 * PI * radius;
+
+    printf("Area of the Circle: %.3f\n", area);
+    printf("Circumference of the Circle: %.3f\n", circumference);
+
+    return 0;
+}
