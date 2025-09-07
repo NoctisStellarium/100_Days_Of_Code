@@ -17,7 +17,7 @@ int main(){
     minutes = (input_seconds % 3600) / 60;
     seconds = (input_seconds % 3600) % 60;
 
-    printf("Time in Hours:Minutes:Seconds Format is : %02d:%02d:%02d\n", hours, minutes, seconds);
+    printf("Time in Hours : Minutes : Seconds Format is : %02d:%02d:%02d\n", hours, minutes, seconds);
 
     return 0;
 }
