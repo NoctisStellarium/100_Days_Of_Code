@@ -20,8 +20,6 @@ int main(){
     else{
         printf("%c is a Special Character.\n", ch);
     }
-
-
-
+    
     return 0;
 }
