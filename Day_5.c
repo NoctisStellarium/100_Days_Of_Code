@@ -24,7 +24,7 @@ int main(){
     float compound_interest;
 
     simple_interest = (principal * rate * time) / 100;
-    compound_interest = principal * pow((1 + rate / 100), time)-  principal;
+    compound_interest = principal * pow((1 + rate / 100), time) - principal;
 
     printf("Simple Interest for Principal Amount %.3f at Rate %.3f for Time %.3f Years is : %.3f\n", principal, rate, time, simple_interest);
     printf("Compound Interest for Principal Amount %.3f at Rate %.3f for Time %.3f Years is : %.3f\n", principal, rate, time, compound_interest);   
