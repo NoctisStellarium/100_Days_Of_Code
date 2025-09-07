@@ -9,7 +9,7 @@ int main() {
     scanf("%d", &year);
 
     if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
-        printf("%d is a LYeap ear.\n", year);
+        printf("%d is a Leap ear.\n", year);
     } else {
         printf("%d is Not a Leap Year.\n", year);
     }
