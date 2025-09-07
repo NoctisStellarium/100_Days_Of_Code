@@ -1,4 +1,4 @@
-// Write a Program That Accepts a Percentage (0 - 100) and Assign a Grade Based on the Following Criteria
+// Write a Program That Accepts a Percentage (0 - 100) and Assign a Grade Based on the Following Criteria.
 
 #include <stdio.h>
 

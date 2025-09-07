@@ -1,4 +1,4 @@
-// Write a Program to Swap Two Numbers Using a Third Variable
+// Write a Program to Swap Two Numbers Using a Third Variable.
 
 #include <stdio.h>
 

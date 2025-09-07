@@ -1,4 +1,4 @@
-// Write a Program to Input a Year and Check Whether it is a Leap Year or Not Using Conditional Statements
+// Write a Program to Input a Year and Check Whether it is a Leap Year or Not Using Conditional Statements.
 
 #include <stdio.h>
 

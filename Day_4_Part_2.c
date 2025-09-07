@@ -1,4 +1,4 @@
-// Write a Program to Find and Display the Sum of the First n Natural Numbers
+// Write a Program to Find and Display the Sum of the First n Natural Numbers.
 
 #include <stdio.h>
 

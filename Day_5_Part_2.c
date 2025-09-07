@@ -1,4 +1,4 @@
-// Write a Program to Input Time in Seconds and Convert it into Hours : Minutes : Seconds Format
+// Write a Program to Input Time in Seconds and Convert it into Hours : Minutes : Seconds Format.
 // (%0nd means to print the number with a minimum width of n digits, padding with leading zeros if necessary)
 
 #include <stdio.h>

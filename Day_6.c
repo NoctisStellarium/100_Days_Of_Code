@@ -1,4 +1,4 @@
-// Write a Program to Input an Integer and Check Whether it is Even or Odd Using If-Else Statement
+// Write a Program to Input an Integer and Check Whether it is Even or Odd Using If-Else Statement.
 
 #include <stdio.h>
 

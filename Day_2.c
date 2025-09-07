@@ -1,4 +1,4 @@
-// Write a Program to Calculate the Area and Perimeter of a Rectangle given its Length and Breadth 
+// Write a Program to Calculate the Area and Perimeter of a Rectangle given its Length and Breadth.
 // (%.nf) where n is the number of decimal places to be displayed in (float)
 
 #include <stdio.h>
