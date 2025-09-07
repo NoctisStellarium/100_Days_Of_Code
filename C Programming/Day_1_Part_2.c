@@ -1,4 +1,4 @@
-// Write a Program to Input Two Numbers and Display their Sum, Difference, Product, and Quotient
+// Write a Program to Input Two Numbers and Display their Sum, Difference, Product and Quotient.
 // As Calculation of Quotient is Involved, Division by Zero need to be Handled Carefully
 
 /*
