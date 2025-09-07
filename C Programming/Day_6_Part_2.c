@@ -1,4 +1,4 @@
-// Write a Program to Input an Integer and Check Whether it is Positive, Negative or Zero Using Nested If Else Statement.
+// Write a Program to Input an Integer and Check Whether it is Positive, Negative or Zero Using Nested If-Else Statement.
 
 #include <stdio.h>
 
