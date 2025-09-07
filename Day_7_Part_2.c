@@ -1,4 +1,5 @@
 // Write a Program to Input a Character and Check Whether it is a Vowel or Consonant using If-Else Statement.
+// (char) is the data type to store a character value, using %c format specifier in scanf and printf functions.
 
 #include <stdio.h>
 
@@ -18,6 +19,6 @@ int main(){
     else {
         printf("%c is not an alphabetic character.\n", ch);
     }
-    
+
     return 0;
 }
