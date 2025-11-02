@@ -3,4 +3,4 @@ A Personal Project Documenting my Daily Coding Journey through College
 
 Identity (590028080)
 
-Language Used In This Project : C 
+Language Used Throughout This Repository : C
