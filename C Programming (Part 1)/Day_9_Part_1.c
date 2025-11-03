@@ -34,7 +34,6 @@ int main()
 
         printf("The First Root For The Quadratic Equation Is : %d\n", root1);
         printf("The Second Root For The Quadratic Equation Is : %d", root2);
-
     }
     else if (discriminant == 0)
     {
@@ -45,7 +44,6 @@ int main()
 
         printf("The First Root For The Quadratic Equation Is : %d\n", root1);
         printf("The Second Root For The Quadratic Equation Is : %d", root2);
-
     }
     else
     {
