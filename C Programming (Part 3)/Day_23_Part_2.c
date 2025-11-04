@@ -1,4 +1,4 @@
-// Write a Program To Print The Following Pattern.
+// Write a Program To Print The Following Pattern (*****).
 
 #include <stdio.h>
 
